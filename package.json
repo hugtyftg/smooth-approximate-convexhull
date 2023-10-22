@@ -1,0 +1,20 @@
+{
+  "name": "smooth-approximate-convexhull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "vite": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.2"
+  }
+}
